@@ -8,6 +8,8 @@
 
 ###### In this project the following rules are implemented:
 
+* The code is scalable.Right now there are just 5 questions,but inserting in the аrrayQandA Object new question,possile answers and right answer,also making one more array with the number of the next question  arrayWithSameOrderWhenTheyAreAnswered,will make to affect that
+through the rest of the code and the rest of the application.So,there is no need to change at other 100 places,if you make change just on one 
 * The results from the quiz includes:Points,percentage succes,time required,
 the questions in the same orded,when he gave the answer and note about that which answer was his,
 and which answer is correct,so the user can learn by his mistakes.
